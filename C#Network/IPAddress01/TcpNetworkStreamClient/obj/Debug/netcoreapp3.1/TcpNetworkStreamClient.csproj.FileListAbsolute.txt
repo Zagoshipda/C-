@@ -1,0 +1,10 @@
+D:\JGB\coding\C#\C#Network\IPAddress01\TcpNetworkStreamClient\bin\Debug\netcoreapp3.1\TcpNetworkStreamClient.exe
+D:\JGB\coding\C#\C#Network\IPAddress01\TcpNetworkStreamClient\bin\Debug\netcoreapp3.1\TcpNetworkStreamClient.deps.json
+D:\JGB\coding\C#\C#Network\IPAddress01\TcpNetworkStreamClient\bin\Debug\netcoreapp3.1\TcpNetworkStreamClient.runtimeconfig.json
+D:\JGB\coding\C#\C#Network\IPAddress01\TcpNetworkStreamClient\bin\Debug\netcoreapp3.1\TcpNetworkStreamClient.runtimeconfig.dev.json
+D:\JGB\coding\C#\C#Network\IPAddress01\TcpNetworkStreamClient\bin\Debug\netcoreapp3.1\TcpNetworkStreamClient.dll
+D:\JGB\coding\C#\C#Network\IPAddress01\TcpNetworkStreamClient\bin\Debug\netcoreapp3.1\TcpNetworkStreamClient.pdb
+D:\JGB\coding\C#\C#Network\IPAddress01\TcpNetworkStreamClient\obj\Debug\netcoreapp3.1\TcpNetworkStreamClient.AssemblyInfoInputs.cache
+D:\JGB\coding\C#\C#Network\IPAddress01\TcpNetworkStreamClient\obj\Debug\netcoreapp3.1\TcpNetworkStreamClient.AssemblyInfo.cs
+D:\JGB\coding\C#\C#Network\IPAddress01\TcpNetworkStreamClient\obj\Debug\netcoreapp3.1\TcpNetworkStreamClient.dll
+D:\JGB\coding\C#\C#Network\IPAddress01\TcpNetworkStreamClient\obj\Debug\netcoreapp3.1\TcpNetworkStreamClient.pdb

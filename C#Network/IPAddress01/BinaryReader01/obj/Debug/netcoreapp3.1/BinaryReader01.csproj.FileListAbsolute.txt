@@ -1,0 +1,10 @@
+D:\JGB\coding\C#\C#Network\IPAddress01\BinaryReader01\bin\Debug\netcoreapp3.1\BinaryReader01.exe
+D:\JGB\coding\C#\C#Network\IPAddress01\BinaryReader01\bin\Debug\netcoreapp3.1\BinaryReader01.deps.json
+D:\JGB\coding\C#\C#Network\IPAddress01\BinaryReader01\bin\Debug\netcoreapp3.1\BinaryReader01.runtimeconfig.json
+D:\JGB\coding\C#\C#Network\IPAddress01\BinaryReader01\bin\Debug\netcoreapp3.1\BinaryReader01.runtimeconfig.dev.json
+D:\JGB\coding\C#\C#Network\IPAddress01\BinaryReader01\bin\Debug\netcoreapp3.1\BinaryReader01.dll
+D:\JGB\coding\C#\C#Network\IPAddress01\BinaryReader01\bin\Debug\netcoreapp3.1\BinaryReader01.pdb
+D:\JGB\coding\C#\C#Network\IPAddress01\BinaryReader01\obj\Debug\netcoreapp3.1\BinaryReader01.AssemblyInfoInputs.cache
+D:\JGB\coding\C#\C#Network\IPAddress01\BinaryReader01\obj\Debug\netcoreapp3.1\BinaryReader01.AssemblyInfo.cs
+D:\JGB\coding\C#\C#Network\IPAddress01\BinaryReader01\obj\Debug\netcoreapp3.1\BinaryReader01.dll
+D:\JGB\coding\C#\C#Network\IPAddress01\BinaryReader01\obj\Debug\netcoreapp3.1\BinaryReader01.pdb

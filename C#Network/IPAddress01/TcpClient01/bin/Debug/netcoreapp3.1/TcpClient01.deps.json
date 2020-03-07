@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TcpClient01/1.0.0": {
+        "runtime": {
+          "TcpClient01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TcpClient01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

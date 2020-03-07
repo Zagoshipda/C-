@@ -1,0 +1,10 @@
+D:\JGB\coding\C#\C#Network\IPAddress01\TcpClient01\bin\Debug\netcoreapp3.1\TcpClient01.exe
+D:\JGB\coding\C#\C#Network\IPAddress01\TcpClient01\bin\Debug\netcoreapp3.1\TcpClient01.deps.json
+D:\JGB\coding\C#\C#Network\IPAddress01\TcpClient01\bin\Debug\netcoreapp3.1\TcpClient01.runtimeconfig.json
+D:\JGB\coding\C#\C#Network\IPAddress01\TcpClient01\bin\Debug\netcoreapp3.1\TcpClient01.runtimeconfig.dev.json
+D:\JGB\coding\C#\C#Network\IPAddress01\TcpClient01\bin\Debug\netcoreapp3.1\TcpClient01.dll
+D:\JGB\coding\C#\C#Network\IPAddress01\TcpClient01\bin\Debug\netcoreapp3.1\TcpClient01.pdb
+D:\JGB\coding\C#\C#Network\IPAddress01\TcpClient01\obj\Debug\netcoreapp3.1\TcpClient01.AssemblyInfoInputs.cache
+D:\JGB\coding\C#\C#Network\IPAddress01\TcpClient01\obj\Debug\netcoreapp3.1\TcpClient01.AssemblyInfo.cs
+D:\JGB\coding\C#\C#Network\IPAddress01\TcpClient01\obj\Debug\netcoreapp3.1\TcpClient01.dll
+D:\JGB\coding\C#\C#Network\IPAddress01\TcpClient01\obj\Debug\netcoreapp3.1\TcpClient01.pdb

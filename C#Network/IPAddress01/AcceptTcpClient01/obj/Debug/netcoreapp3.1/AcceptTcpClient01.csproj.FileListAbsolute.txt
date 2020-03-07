@@ -1,0 +1,10 @@
+D:\JGB\coding\C#\C#Network\IPAddress01\AcceptTcpClient01\bin\Debug\netcoreapp3.1\AcceptTcpClient01.exe
+D:\JGB\coding\C#\C#Network\IPAddress01\AcceptTcpClient01\bin\Debug\netcoreapp3.1\AcceptTcpClient01.deps.json
+D:\JGB\coding\C#\C#Network\IPAddress01\AcceptTcpClient01\bin\Debug\netcoreapp3.1\AcceptTcpClient01.runtimeconfig.json
+D:\JGB\coding\C#\C#Network\IPAddress01\AcceptTcpClient01\bin\Debug\netcoreapp3.1\AcceptTcpClient01.runtimeconfig.dev.json
+D:\JGB\coding\C#\C#Network\IPAddress01\AcceptTcpClient01\bin\Debug\netcoreapp3.1\AcceptTcpClient01.dll
+D:\JGB\coding\C#\C#Network\IPAddress01\AcceptTcpClient01\bin\Debug\netcoreapp3.1\AcceptTcpClient01.pdb
+D:\JGB\coding\C#\C#Network\IPAddress01\AcceptTcpClient01\obj\Debug\netcoreapp3.1\AcceptTcpClient01.AssemblyInfoInputs.cache
+D:\JGB\coding\C#\C#Network\IPAddress01\AcceptTcpClient01\obj\Debug\netcoreapp3.1\AcceptTcpClient01.AssemblyInfo.cs
+D:\JGB\coding\C#\C#Network\IPAddress01\AcceptTcpClient01\obj\Debug\netcoreapp3.1\AcceptTcpClient01.dll
+D:\JGB\coding\C#\C#Network\IPAddress01\AcceptTcpClient01\obj\Debug\netcoreapp3.1\AcceptTcpClient01.pdb
