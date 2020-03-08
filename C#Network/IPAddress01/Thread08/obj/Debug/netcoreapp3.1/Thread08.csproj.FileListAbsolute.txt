@@ -1,0 +1,11 @@
+D:\JGB\coding\CSharp\C#Network\IPAddress01\Thread08\bin\Debug\netcoreapp3.1\Thread08.exe
+D:\JGB\coding\CSharp\C#Network\IPAddress01\Thread08\bin\Debug\netcoreapp3.1\Thread08.deps.json
+D:\JGB\coding\CSharp\C#Network\IPAddress01\Thread08\bin\Debug\netcoreapp3.1\Thread08.runtimeconfig.json
+D:\JGB\coding\CSharp\C#Network\IPAddress01\Thread08\bin\Debug\netcoreapp3.1\Thread08.runtimeconfig.dev.json
+D:\JGB\coding\CSharp\C#Network\IPAddress01\Thread08\bin\Debug\netcoreapp3.1\Thread08.dll
+D:\JGB\coding\CSharp\C#Network\IPAddress01\Thread08\bin\Debug\netcoreapp3.1\Thread08.pdb
+D:\JGB\coding\CSharp\C#Network\IPAddress01\Thread08\obj\Debug\netcoreapp3.1\Thread08.AssemblyInfoInputs.cache
+D:\JGB\coding\CSharp\C#Network\IPAddress01\Thread08\obj\Debug\netcoreapp3.1\Thread08.AssemblyInfo.cs
+D:\JGB\coding\CSharp\C#Network\IPAddress01\Thread08\obj\Debug\netcoreapp3.1\Thread08.dll
+D:\JGB\coding\CSharp\C#Network\IPAddress01\Thread08\obj\Debug\netcoreapp3.1\Thread08.pdb
+D:\JGB\coding\CSharp\C#Network\IPAddress01\Thread08\obj\Debug\netcoreapp3.1\Thread08.csprojAssemblyReference.cache

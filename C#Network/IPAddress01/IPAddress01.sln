@@ -3,33 +3,47 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPAddress01", "IPAddress01\IPAddress01.csproj", "{14DC41C8-7385-4173-A6A5-D491397BE463}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IPAddress01", "IPAddress01\IPAddress01.csproj", "{14DC41C8-7385-4173-A6A5-D491397BE463}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dns01", "Dns01\Dns01.csproj", "{2544008E-A460-42BF-82F0-33F31F3FDD67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dns01", "Dns01\Dns01.csproj", "{2544008E-A460-42BF-82F0-33F31F3FDD67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPHostEntry01", "IPHostEntry01\IPHostEntry01.csproj", "{3E10F70B-9E16-4650-B136-4187841D08BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IPHostEntry01", "IPHostEntry01\IPHostEntry01.csproj", "{3E10F70B-9E16-4650-B136-4187841D08BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPEndPoint01", "IPEndPoint01\IPEndPoint01.csproj", "{F03E557E-ECB3-446C-B194-D495DB581BF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IPEndPoint01", "IPEndPoint01\IPEndPoint01.csproj", "{F03E557E-ECB3-446C-B194-D495DB581BF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpClient01", "TcpClient01\TcpClient01.csproj", "{0FC90CB9-F92D-41D8-9A4D-FA4BECAE2A4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TcpClient01", "TcpClient01\TcpClient01.csproj", "{0FC90CB9-F92D-41D8-9A4D-FA4BECAE2A4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcceptTcpClient01", "AcceptTcpClient01\AcceptTcpClient01.csproj", "{C995B162-A568-42BD-B177-27B53FA34146}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AcceptTcpClient01", "AcceptTcpClient01\AcceptTcpClient01.csproj", "{C995B162-A568-42BD-B177-27B53FA34146}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkStreamServer", "NetworkStreamServer\NetworkStreamServer.csproj", "{3BAFE873-0F65-4E06-A8D2-4ABA19F6DE37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetworkStreamServer", "NetworkStreamServer\NetworkStreamServer.csproj", "{3BAFE873-0F65-4E06-A8D2-4ABA19F6DE37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpClientGetStream", "TcpClientGetStream\TcpClientGetStream.csproj", "{0BF673FE-1E15-4D4B-8BCB-A16C20985B64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TcpClientGetStream", "TcpClientGetStream\TcpClientGetStream.csproj", "{0BF673FE-1E15-4D4B-8BCB-A16C20985B64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpNetworkStreamServer", "TcpNetworkStreamServer\TcpNetworkStreamServer.csproj", "{9F679AEC-ED54-4EF3-AC23-3F4527D11B43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TcpNetworkStreamServer", "TcpNetworkStreamServer\TcpNetworkStreamServer.csproj", "{9F679AEC-ED54-4EF3-AC23-3F4527D11B43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpNetworkStreamClient", "TcpNetworkStreamClient\TcpNetworkStreamClient.csproj", "{C30522EE-D24B-4EF1-8D5C-B40342741F2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TcpNetworkStreamClient", "TcpNetworkStreamClient\TcpNetworkStreamClient.csproj", "{C30522EE-D24B-4EF1-8D5C-B40342741F2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamWriter01", "StreamWriter01\StreamWriter01.csproj", "{41E3F2EE-9EB9-499E-BCAB-DAA491EFFA34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StreamWriter01", "StreamWriter01\StreamWriter01.csproj", "{41E3F2EE-9EB9-499E-BCAB-DAA491EFFA34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamRead", "StreamRead\StreamRead.csproj", "{5A08222A-BED5-46BF-B2A0-1F810384E48B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StreamRead", "StreamRead\StreamRead.csproj", "{5A08222A-BED5-46BF-B2A0-1F810384E48B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryWrite01", "BinaryWrite01\BinaryWrite01.csproj", "{2C3B1115-064E-45F7-9956-757EEF4E6549}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryWrite01", "BinaryWrite01\BinaryWrite01.csproj", "{2C3B1115-064E-45F7-9956-757EEF4E6549}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryReader01", "BinaryReader01\BinaryReader01.csproj", "{34EA1E20-AB86-4C31-A254-3C29AEF8B7E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryReader01", "BinaryReader01\BinaryReader01.csproj", "{34EA1E20-AB86-4C31-A254-3C29AEF8B7E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread01", "Thread01\Thread01.csproj", "{1EFE51EC-A646-46E3-8B7F-D615D8B5245F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread08", "Thread08\Thread08.csproj", "{19ECC0D9-07B2-4C21-A9D4-9BB1787A0137}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread08_2", "Thread08_2\Thread08_2.csproj", "{123740AD-8205-4915-A054-2340CA16FA1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinServer03", "WinServer03\WinServer03.csproj", "{DDA7CE54-08E0-4F80-B729-898DC5451D74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synchronization01", "Synchronization01\Synchronization01.csproj", "{835659D5-C34B-4C44-89E3-D06BDB561A62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synchronization02", "Synchronization02\Synchronization02.csproj", "{45182087-7B6F-4706-A82B-3C71B82683EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synchronization03", "Synchronization03\Synchronization03.csproj", "{318E2C40-4B36-4C6C-82CA-97CB77BF72CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +107,34 @@ Global
 		{34EA1E20-AB86-4C31-A254-3C29AEF8B7E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34EA1E20-AB86-4C31-A254-3C29AEF8B7E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34EA1E20-AB86-4C31-A254-3C29AEF8B7E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EFE51EC-A646-46E3-8B7F-D615D8B5245F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFE51EC-A646-46E3-8B7F-D615D8B5245F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFE51EC-A646-46E3-8B7F-D615D8B5245F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFE51EC-A646-46E3-8B7F-D615D8B5245F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19ECC0D9-07B2-4C21-A9D4-9BB1787A0137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19ECC0D9-07B2-4C21-A9D4-9BB1787A0137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19ECC0D9-07B2-4C21-A9D4-9BB1787A0137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19ECC0D9-07B2-4C21-A9D4-9BB1787A0137}.Release|Any CPU.Build.0 = Release|Any CPU
+		{123740AD-8205-4915-A054-2340CA16FA1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{123740AD-8205-4915-A054-2340CA16FA1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{123740AD-8205-4915-A054-2340CA16FA1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{123740AD-8205-4915-A054-2340CA16FA1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDA7CE54-08E0-4F80-B729-898DC5451D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA7CE54-08E0-4F80-B729-898DC5451D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA7CE54-08E0-4F80-B729-898DC5451D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA7CE54-08E0-4F80-B729-898DC5451D74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{835659D5-C34B-4C44-89E3-D06BDB561A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{835659D5-C34B-4C44-89E3-D06BDB561A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{835659D5-C34B-4C44-89E3-D06BDB561A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{835659D5-C34B-4C44-89E3-D06BDB561A62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45182087-7B6F-4706-A82B-3C71B82683EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45182087-7B6F-4706-A82B-3C71B82683EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45182087-7B6F-4706-A82B-3C71B82683EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45182087-7B6F-4706-A82B-3C71B82683EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{318E2C40-4B36-4C6C-82CA-97CB77BF72CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{318E2C40-4B36-4C6C-82CA-97CB77BF72CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{318E2C40-4B36-4C6C-82CA-97CB77BF72CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{318E2C40-4B36-4C6C-82CA-97CB77BF72CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

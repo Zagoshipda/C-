@@ -9,3 +9,14 @@ D:\JGB\coding\C#\C#Network\IPAddress01\TcpClientGetStream\obj\Debug\netcoreapp3.
 D:\JGB\coding\C#\C#Network\IPAddress01\TcpClientGetStream\obj\Debug\netcoreapp3.1\TcpClientGetStream.dll
 D:\JGB\coding\C#\C#Network\IPAddress01\TcpClientGetStream\obj\Debug\netcoreapp3.1\TcpClientGetStream.pdb
 D:\JGB\coding\C#\C#Network\IPAddress01\TcpClientGetStream\obj\Debug\netcoreapp3.1\TcpClientGetStream.csprojAssemblyReference.cache
+D:\JGB\coding\CSharp\C#Network\IPAddress01\TcpClientGetStream\bin\Debug\netcoreapp3.1\TcpClientGetStream.exe
+D:\JGB\coding\CSharp\C#Network\IPAddress01\TcpClientGetStream\bin\Debug\netcoreapp3.1\TcpClientGetStream.deps.json
+D:\JGB\coding\CSharp\C#Network\IPAddress01\TcpClientGetStream\bin\Debug\netcoreapp3.1\TcpClientGetStream.runtimeconfig.json
+D:\JGB\coding\CSharp\C#Network\IPAddress01\TcpClientGetStream\bin\Debug\netcoreapp3.1\TcpClientGetStream.runtimeconfig.dev.json
+D:\JGB\coding\CSharp\C#Network\IPAddress01\TcpClientGetStream\bin\Debug\netcoreapp3.1\TcpClientGetStream.dll
+D:\JGB\coding\CSharp\C#Network\IPAddress01\TcpClientGetStream\bin\Debug\netcoreapp3.1\TcpClientGetStream.pdb
+D:\JGB\coding\CSharp\C#Network\IPAddress01\TcpClientGetStream\obj\Debug\netcoreapp3.1\TcpClientGetStream.csprojAssemblyReference.cache
+D:\JGB\coding\CSharp\C#Network\IPAddress01\TcpClientGetStream\obj\Debug\netcoreapp3.1\TcpClientGetStream.AssemblyInfoInputs.cache
+D:\JGB\coding\CSharp\C#Network\IPAddress01\TcpClientGetStream\obj\Debug\netcoreapp3.1\TcpClientGetStream.AssemblyInfo.cs
+D:\JGB\coding\CSharp\C#Network\IPAddress01\TcpClientGetStream\obj\Debug\netcoreapp3.1\TcpClientGetStream.dll
+D:\JGB\coding\CSharp\C#Network\IPAddress01\TcpClientGetStream\obj\Debug\netcoreapp3.1\TcpClientGetStream.pdb

@@ -1,0 +1,5 @@
+D:\JGB\coding\CSharp\C#Network\IPAddress01\Synchronization02\bin\Debug\Synchronization02.exe.config
+D:\JGB\coding\CSharp\C#Network\IPAddress01\Synchronization02\bin\Debug\Synchronization02.exe
+D:\JGB\coding\CSharp\C#Network\IPAddress01\Synchronization02\bin\Debug\Synchronization02.pdb
+D:\JGB\coding\CSharp\C#Network\IPAddress01\Synchronization02\obj\Debug\Synchronization02.exe
+D:\JGB\coding\CSharp\C#Network\IPAddress01\Synchronization02\obj\Debug\Synchronization02.pdb

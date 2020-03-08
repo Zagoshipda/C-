@@ -9,3 +9,14 @@ D:\JGB\coding\C#\C#Network\IPAddress01\IPEndPoint01\obj\Debug\netcoreapp3.1\IPEn
 D:\JGB\coding\C#\C#Network\IPAddress01\IPEndPoint01\obj\Debug\netcoreapp3.1\IPEndPoint01.dll
 D:\JGB\coding\C#\C#Network\IPAddress01\IPEndPoint01\obj\Debug\netcoreapp3.1\IPEndPoint01.pdb
 D:\JGB\coding\C#\C#Network\IPAddress01\IPEndPoint01\obj\Debug\netcoreapp3.1\IPEndPoint01.csprojAssemblyReference.cache
+D:\JGB\coding\CSharp\C#Network\IPAddress01\IPEndPoint01\bin\Debug\netcoreapp3.1\IPEndPoint01.exe
+D:\JGB\coding\CSharp\C#Network\IPAddress01\IPEndPoint01\bin\Debug\netcoreapp3.1\IPEndPoint01.deps.json
+D:\JGB\coding\CSharp\C#Network\IPAddress01\IPEndPoint01\bin\Debug\netcoreapp3.1\IPEndPoint01.runtimeconfig.json
+D:\JGB\coding\CSharp\C#Network\IPAddress01\IPEndPoint01\bin\Debug\netcoreapp3.1\IPEndPoint01.runtimeconfig.dev.json
+D:\JGB\coding\CSharp\C#Network\IPAddress01\IPEndPoint01\bin\Debug\netcoreapp3.1\IPEndPoint01.dll
+D:\JGB\coding\CSharp\C#Network\IPAddress01\IPEndPoint01\bin\Debug\netcoreapp3.1\IPEndPoint01.pdb
+D:\JGB\coding\CSharp\C#Network\IPAddress01\IPEndPoint01\obj\Debug\netcoreapp3.1\IPEndPoint01.csprojAssemblyReference.cache
+D:\JGB\coding\CSharp\C#Network\IPAddress01\IPEndPoint01\obj\Debug\netcoreapp3.1\IPEndPoint01.AssemblyInfoInputs.cache
+D:\JGB\coding\CSharp\C#Network\IPAddress01\IPEndPoint01\obj\Debug\netcoreapp3.1\IPEndPoint01.AssemblyInfo.cs
+D:\JGB\coding\CSharp\C#Network\IPAddress01\IPEndPoint01\obj\Debug\netcoreapp3.1\IPEndPoint01.dll
+D:\JGB\coding\CSharp\C#Network\IPAddress01\IPEndPoint01\obj\Debug\netcoreapp3.1\IPEndPoint01.pdb

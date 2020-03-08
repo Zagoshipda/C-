@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\JGB\\coding\\C#\\C#Network\\IPAddress01\\TcpNetworkStreamClient\\TcpNetworkStreamClient.csproj": {}
+    "D:\\JGB\\coding\\CSharp\\C#Network\\IPAddress01\\TcpNetworkStreamClient\\TcpNetworkStreamClient.csproj": {}
   },
   "projects": {
-    "D:\\JGB\\coding\\C#\\C#Network\\IPAddress01\\TcpNetworkStreamClient\\TcpNetworkStreamClient.csproj": {
+    "D:\\JGB\\coding\\CSharp\\C#Network\\IPAddress01\\TcpNetworkStreamClient\\TcpNetworkStreamClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\JGB\\coding\\C#\\C#Network\\IPAddress01\\TcpNetworkStreamClient\\TcpNetworkStreamClient.csproj",
+        "projectUniqueName": "D:\\JGB\\coding\\CSharp\\C#Network\\IPAddress01\\TcpNetworkStreamClient\\TcpNetworkStreamClient.csproj",
         "projectName": "TcpNetworkStreamClient",
-        "projectPath": "D:\\JGB\\coding\\C#\\C#Network\\IPAddress01\\TcpNetworkStreamClient\\TcpNetworkStreamClient.csproj",
+        "projectPath": "D:\\JGB\\coding\\CSharp\\C#Network\\IPAddress01\\TcpNetworkStreamClient\\TcpNetworkStreamClient.csproj",
         "packagesPath": "C:\\Users\\breaker\\.nuget\\packages\\",
-        "outputPath": "D:\\JGB\\coding\\C#\\C#Network\\IPAddress01\\TcpNetworkStreamClient\\obj\\",
+        "outputPath": "D:\\JGB\\coding\\CSharp\\C#Network\\IPAddress01\\TcpNetworkStreamClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

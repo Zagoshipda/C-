@@ -8,3 +8,14 @@ D:\JGB\coding\C#\C#Network\IPAddress01\NetworkStreamServer\obj\Debug\netcoreapp3
 D:\JGB\coding\C#\C#Network\IPAddress01\NetworkStreamServer\obj\Debug\netcoreapp3.1\NetworkStreamServer.AssemblyInfo.cs
 D:\JGB\coding\C#\C#Network\IPAddress01\NetworkStreamServer\obj\Debug\netcoreapp3.1\NetworkStreamServer.dll
 D:\JGB\coding\C#\C#Network\IPAddress01\NetworkStreamServer\obj\Debug\netcoreapp3.1\NetworkStreamServer.pdb
+D:\JGB\coding\CSharp\C#Network\IPAddress01\NetworkStreamServer\bin\Debug\netcoreapp3.1\NetworkStreamServer.exe
+D:\JGB\coding\CSharp\C#Network\IPAddress01\NetworkStreamServer\bin\Debug\netcoreapp3.1\NetworkStreamServer.deps.json
+D:\JGB\coding\CSharp\C#Network\IPAddress01\NetworkStreamServer\bin\Debug\netcoreapp3.1\NetworkStreamServer.runtimeconfig.json
+D:\JGB\coding\CSharp\C#Network\IPAddress01\NetworkStreamServer\bin\Debug\netcoreapp3.1\NetworkStreamServer.runtimeconfig.dev.json
+D:\JGB\coding\CSharp\C#Network\IPAddress01\NetworkStreamServer\bin\Debug\netcoreapp3.1\NetworkStreamServer.dll
+D:\JGB\coding\CSharp\C#Network\IPAddress01\NetworkStreamServer\bin\Debug\netcoreapp3.1\NetworkStreamServer.pdb
+D:\JGB\coding\CSharp\C#Network\IPAddress01\NetworkStreamServer\obj\Debug\netcoreapp3.1\NetworkStreamServer.csprojAssemblyReference.cache
+D:\JGB\coding\CSharp\C#Network\IPAddress01\NetworkStreamServer\obj\Debug\netcoreapp3.1\NetworkStreamServer.AssemblyInfoInputs.cache
+D:\JGB\coding\CSharp\C#Network\IPAddress01\NetworkStreamServer\obj\Debug\netcoreapp3.1\NetworkStreamServer.AssemblyInfo.cs
+D:\JGB\coding\CSharp\C#Network\IPAddress01\NetworkStreamServer\obj\Debug\netcoreapp3.1\NetworkStreamServer.dll
+D:\JGB\coding\CSharp\C#Network\IPAddress01\NetworkStreamServer\obj\Debug\netcoreapp3.1\NetworkStreamServer.pdb

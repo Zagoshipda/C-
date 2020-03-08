@@ -1,0 +1,9 @@
+D:\JGB\coding\CSharp\C#Network\IPAddress01\WinServer03\bin\Debug\WinServer03.exe.config
+D:\JGB\coding\CSharp\C#Network\IPAddress01\WinServer03\bin\Debug\WinServer03.exe
+D:\JGB\coding\CSharp\C#Network\IPAddress01\WinServer03\bin\Debug\WinServer03.pdb
+D:\JGB\coding\CSharp\C#Network\IPAddress01\WinServer03\obj\Debug\WinServer03.csprojAssemblyReference.cache
+D:\JGB\coding\CSharp\C#Network\IPAddress01\WinServer03\obj\Debug\WinServer03.Form1.resources
+D:\JGB\coding\CSharp\C#Network\IPAddress01\WinServer03\obj\Debug\WinServer03.Properties.Resources.resources
+D:\JGB\coding\CSharp\C#Network\IPAddress01\WinServer03\obj\Debug\WinServer03.csproj.GenerateResource.cache
+D:\JGB\coding\CSharp\C#Network\IPAddress01\WinServer03\obj\Debug\WinServer03.exe
+D:\JGB\coding\CSharp\C#Network\IPAddress01\WinServer03\obj\Debug\WinServer03.pdb

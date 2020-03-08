@@ -8,3 +8,14 @@ D:\JGB\coding\C#\C#Network\IPAddress01\BinaryWrite01\obj\Debug\netcoreapp3.1\Bin
 D:\JGB\coding\C#\C#Network\IPAddress01\BinaryWrite01\obj\Debug\netcoreapp3.1\BinaryWrite01.AssemblyInfo.cs
 D:\JGB\coding\C#\C#Network\IPAddress01\BinaryWrite01\obj\Debug\netcoreapp3.1\BinaryWrite01.dll
 D:\JGB\coding\C#\C#Network\IPAddress01\BinaryWrite01\obj\Debug\netcoreapp3.1\BinaryWrite01.pdb
+D:\JGB\coding\CSharp\C#Network\IPAddress01\BinaryWrite01\bin\Debug\netcoreapp3.1\BinaryWrite01.exe
+D:\JGB\coding\CSharp\C#Network\IPAddress01\BinaryWrite01\bin\Debug\netcoreapp3.1\BinaryWrite01.deps.json
+D:\JGB\coding\CSharp\C#Network\IPAddress01\BinaryWrite01\bin\Debug\netcoreapp3.1\BinaryWrite01.runtimeconfig.json
+D:\JGB\coding\CSharp\C#Network\IPAddress01\BinaryWrite01\bin\Debug\netcoreapp3.1\BinaryWrite01.runtimeconfig.dev.json
+D:\JGB\coding\CSharp\C#Network\IPAddress01\BinaryWrite01\bin\Debug\netcoreapp3.1\BinaryWrite01.dll
+D:\JGB\coding\CSharp\C#Network\IPAddress01\BinaryWrite01\bin\Debug\netcoreapp3.1\BinaryWrite01.pdb
+D:\JGB\coding\CSharp\C#Network\IPAddress01\BinaryWrite01\obj\Debug\netcoreapp3.1\BinaryWrite01.csprojAssemblyReference.cache
+D:\JGB\coding\CSharp\C#Network\IPAddress01\BinaryWrite01\obj\Debug\netcoreapp3.1\BinaryWrite01.AssemblyInfoInputs.cache
+D:\JGB\coding\CSharp\C#Network\IPAddress01\BinaryWrite01\obj\Debug\netcoreapp3.1\BinaryWrite01.AssemblyInfo.cs
+D:\JGB\coding\CSharp\C#Network\IPAddress01\BinaryWrite01\obj\Debug\netcoreapp3.1\BinaryWrite01.dll
+D:\JGB\coding\CSharp\C#Network\IPAddress01\BinaryWrite01\obj\Debug\netcoreapp3.1\BinaryWrite01.pdb

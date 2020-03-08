@@ -1,0 +1,6 @@
+D:\JGB\coding\CSharp\C#Network\IPAddress01\Synchronization01\bin\Debug\Synchronization01.exe.config
+D:\JGB\coding\CSharp\C#Network\IPAddress01\Synchronization01\bin\Debug\Synchronization01.exe
+D:\JGB\coding\CSharp\C#Network\IPAddress01\Synchronization01\bin\Debug\Synchronization01.pdb
+D:\JGB\coding\CSharp\C#Network\IPAddress01\Synchronization01\obj\Debug\Synchronization01.csprojAssemblyReference.cache
+D:\JGB\coding\CSharp\C#Network\IPAddress01\Synchronization01\obj\Debug\Synchronization01.exe
+D:\JGB\coding\CSharp\C#Network\IPAddress01\Synchronization01\obj\Debug\Synchronization01.pdb

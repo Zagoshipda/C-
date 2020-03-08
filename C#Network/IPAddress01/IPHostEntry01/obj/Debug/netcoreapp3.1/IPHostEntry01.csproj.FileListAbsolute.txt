@@ -9,3 +9,14 @@ D:\JGB\coding\C#\C#Network\IPAddress01\IPHostEntry01\obj\Debug\netcoreapp3.1\IPH
 D:\JGB\coding\C#\C#Network\IPAddress01\IPHostEntry01\obj\Debug\netcoreapp3.1\IPHostEntry01.dll
 D:\JGB\coding\C#\C#Network\IPAddress01\IPHostEntry01\obj\Debug\netcoreapp3.1\IPHostEntry01.pdb
 D:\JGB\coding\C#\C#Network\IPAddress01\IPHostEntry01\obj\Debug\netcoreapp3.1\IPHostEntry01.csprojAssemblyReference.cache
+D:\JGB\coding\CSharp\C#Network\IPAddress01\IPHostEntry01\bin\Debug\netcoreapp3.1\IPHostEntry01.exe
+D:\JGB\coding\CSharp\C#Network\IPAddress01\IPHostEntry01\bin\Debug\netcoreapp3.1\IPHostEntry01.deps.json
+D:\JGB\coding\CSharp\C#Network\IPAddress01\IPHostEntry01\bin\Debug\netcoreapp3.1\IPHostEntry01.runtimeconfig.json
+D:\JGB\coding\CSharp\C#Network\IPAddress01\IPHostEntry01\bin\Debug\netcoreapp3.1\IPHostEntry01.runtimeconfig.dev.json
+D:\JGB\coding\CSharp\C#Network\IPAddress01\IPHostEntry01\bin\Debug\netcoreapp3.1\IPHostEntry01.dll
+D:\JGB\coding\CSharp\C#Network\IPAddress01\IPHostEntry01\bin\Debug\netcoreapp3.1\IPHostEntry01.pdb
+D:\JGB\coding\CSharp\C#Network\IPAddress01\IPHostEntry01\obj\Debug\netcoreapp3.1\IPHostEntry01.csprojAssemblyReference.cache
+D:\JGB\coding\CSharp\C#Network\IPAddress01\IPHostEntry01\obj\Debug\netcoreapp3.1\IPHostEntry01.AssemblyInfoInputs.cache
+D:\JGB\coding\CSharp\C#Network\IPAddress01\IPHostEntry01\obj\Debug\netcoreapp3.1\IPHostEntry01.AssemblyInfo.cs
+D:\JGB\coding\CSharp\C#Network\IPAddress01\IPHostEntry01\obj\Debug\netcoreapp3.1\IPHostEntry01.dll
+D:\JGB\coding\CSharp\C#Network\IPAddress01\IPHostEntry01\obj\Debug\netcoreapp3.1\IPHostEntry01.pdb

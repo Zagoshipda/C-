@@ -8,3 +8,14 @@ D:\JGB\coding\C#\C#Network\IPAddress01\StreamRead\obj\Debug\netcoreapp3.1\Stream
 D:\JGB\coding\C#\C#Network\IPAddress01\StreamRead\obj\Debug\netcoreapp3.1\StreamRead.AssemblyInfo.cs
 D:\JGB\coding\C#\C#Network\IPAddress01\StreamRead\obj\Debug\netcoreapp3.1\StreamRead.dll
 D:\JGB\coding\C#\C#Network\IPAddress01\StreamRead\obj\Debug\netcoreapp3.1\StreamRead.pdb
+D:\JGB\coding\CSharp\C#Network\IPAddress01\StreamRead\bin\Debug\netcoreapp3.1\StreamRead.exe
+D:\JGB\coding\CSharp\C#Network\IPAddress01\StreamRead\bin\Debug\netcoreapp3.1\StreamRead.deps.json
+D:\JGB\coding\CSharp\C#Network\IPAddress01\StreamRead\bin\Debug\netcoreapp3.1\StreamRead.runtimeconfig.json
+D:\JGB\coding\CSharp\C#Network\IPAddress01\StreamRead\bin\Debug\netcoreapp3.1\StreamRead.runtimeconfig.dev.json
+D:\JGB\coding\CSharp\C#Network\IPAddress01\StreamRead\bin\Debug\netcoreapp3.1\StreamRead.dll
+D:\JGB\coding\CSharp\C#Network\IPAddress01\StreamRead\bin\Debug\netcoreapp3.1\StreamRead.pdb
+D:\JGB\coding\CSharp\C#Network\IPAddress01\StreamRead\obj\Debug\netcoreapp3.1\StreamRead.csprojAssemblyReference.cache
+D:\JGB\coding\CSharp\C#Network\IPAddress01\StreamRead\obj\Debug\netcoreapp3.1\StreamRead.AssemblyInfoInputs.cache
+D:\JGB\coding\CSharp\C#Network\IPAddress01\StreamRead\obj\Debug\netcoreapp3.1\StreamRead.AssemblyInfo.cs
+D:\JGB\coding\CSharp\C#Network\IPAddress01\StreamRead\obj\Debug\netcoreapp3.1\StreamRead.dll
+D:\JGB\coding\CSharp\C#Network\IPAddress01\StreamRead\obj\Debug\netcoreapp3.1\StreamRead.pdb

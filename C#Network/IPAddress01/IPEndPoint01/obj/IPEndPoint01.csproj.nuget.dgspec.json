@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\JGB\\coding\\C#\\C#Network\\IPAddress01\\IPEndPoint01\\IPEndPoint01.csproj": {}
+    "D:\\JGB\\coding\\CSharp\\C#Network\\IPAddress01\\IPEndPoint01\\IPEndPoint01.csproj": {}
   },
   "projects": {
-    "D:\\JGB\\coding\\C#\\C#Network\\IPAddress01\\IPEndPoint01\\IPEndPoint01.csproj": {
+    "D:\\JGB\\coding\\CSharp\\C#Network\\IPAddress01\\IPEndPoint01\\IPEndPoint01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\JGB\\coding\\C#\\C#Network\\IPAddress01\\IPEndPoint01\\IPEndPoint01.csproj",
+        "projectUniqueName": "D:\\JGB\\coding\\CSharp\\C#Network\\IPAddress01\\IPEndPoint01\\IPEndPoint01.csproj",
         "projectName": "IPEndPoint01",
-        "projectPath": "D:\\JGB\\coding\\C#\\C#Network\\IPAddress01\\IPEndPoint01\\IPEndPoint01.csproj",
+        "projectPath": "D:\\JGB\\coding\\CSharp\\C#Network\\IPAddress01\\IPEndPoint01\\IPEndPoint01.csproj",
         "packagesPath": "C:\\Users\\breaker\\.nuget\\packages\\",
-        "outputPath": "D:\\JGB\\coding\\C#\\C#Network\\IPAddress01\\IPEndPoint01\\obj\\",
+        "outputPath": "D:\\JGB\\coding\\CSharp\\C#Network\\IPAddress01\\IPEndPoint01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
